@@ -76,3 +76,9 @@ npm run lint        # run eslint
   - A garbled placeholder string inside the Coverage section's paragraph copy.
   - A malformed Tailwind class (`blu...r-3xl`) in the Fleet CTA's decorative blur element, corrected to `blur-3xl`.
 - Dark mode is toggled via a `dark` class on `<html>`, matching the original `darkMode: 'class'` Tailwind config, and defaults to the user's OS preference (`prefers-color-scheme`).
+
+## GitHub Pages deployment
+
+1. Push the project to GitHub.
+2. In the repository settings, enable GitHub Pages and choose the GitHub Actions source.
+3. The workflow in [.github/workflows/deploy.yml](.github/workflows/deploy.yml) will publish the site automatically.
