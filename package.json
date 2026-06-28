@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Lanre Shittu Motors (LSM) — 24/7 rescue, towing & roadside assistance website",
-  "homepage": "https://Larriee02.github.io/LanreShittuMotors/",
+  "homepage": "https://sanniabdulroheem-sketch.github.io/LSM-tow/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Larriee02/LanreShittuMotors.git"
+    "url": "https://github.com/sanniabdulroheem-sketch/LSM-tow.git"
   },
   "scripts": {
     "dev": "vite",
